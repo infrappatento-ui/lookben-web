@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">Esquema ilustrativo de evacuación</title><desc id="desc">Vista superior esquemática de un establecimiento con ambientes, salidas señalizadas y recorridos de evacuación.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8fbfd"/><stop offset="1" stop-color="#e7f0f6"/></linearGradient><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#173b70" flood-opacity=".15"/></filter></defs>
+<rect x="24" y="24" width="852" height="472" rx="24" fill="url(#bg)" filter="url(#s)"/>
+<g fill="#d8e6ef" stroke="#315c7c" stroke-width="8" stroke-linejoin="round"><rect x="90" y="95" width="720" height="330" rx="3" fill="#f8fbfd"/><path d="M320 95V255H90M320 255H540V95M540 255V425M320 255V425M540 335H810" fill="none"/></g>
+<g fill="#c3d8e7" opacity=".7"><rect x="112" y="116" width="185" height="115"/><rect x="344" y="116" width="174" height="116"/><rect x="565" y="116" width="220" height="116"/><rect x="112" y="278" width="185" height="125"/><rect x="344" y="278" width="174" height="125"/><rect x="565" y="356" width="220" height="47"/></g>
+<g fill="none" stroke="#159c83" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"><path d="M200 335H420V300H680V180" stroke-dasharray="20 18"/><path d="M650 202l30-30 30 30"/><path d="M390 270l30 30 30-30"/></g>
+<g transform="translate(635 72)"><rect width="92" height="64" rx="10" fill="#159c83"/><path d="M45 13v38M45 13 30 29M45 13l15 16M19 42h55" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(70 270)"><rect width="58" height="70" rx="10" fill="#d94b45"/><path d="M18 17h22v7H18zM21 24h16v30H21zM29 54v8" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/></g>
+<g transform="translate(760 250)"><rect width="58" height="70" rx="10" fill="#d94b45"/><path d="M18 17h22v7H18zM21 24h16v30H21zM29 54v8" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/></g>
+<g fill="#315c7c" font-family="Arial,sans-serif" font-size="16" font-weight="700"><text x="92" y="70">ESQUEMA DE RECORRIDOS Y SALIDAS</text><text x="650" y="460" font-size="13" font-weight="400">ILUSTRACIÓN ORIENTATIVA · NO ES UN PLANO EJECUTIVO</text></g>
+</svg>
